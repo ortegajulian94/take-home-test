@@ -1,7 +1,7 @@
 # Take-Home Test Challenge
 
 ## Introduction
--This repository contains my solution to a take home take-home test with challenges to solve. 
+-This repository contains my solution to a take home test with challenges to solve. 
 
 ### Usage
 - Challenges are listed in order to ideally allow them to be built on each other as you progress.
